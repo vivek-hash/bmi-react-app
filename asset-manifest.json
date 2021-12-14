@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/bmi-react-app/static/css/main.e610c942.chunk.css",
+    "main.js": "/bmi-react-app/static/js/main.67a06347.chunk.js",
+    "main.js.map": "/bmi-react-app/static/js/main.67a06347.chunk.js.map",
+    "runtime-main.js": "/bmi-react-app/static/js/runtime-main.50583cc5.js",
+    "runtime-main.js.map": "/bmi-react-app/static/js/runtime-main.50583cc5.js.map",
+    "static/js/2.906f0d43.chunk.js": "/bmi-react-app/static/js/2.906f0d43.chunk.js",
+    "static/js/2.906f0d43.chunk.js.map": "/bmi-react-app/static/js/2.906f0d43.chunk.js.map",
+    "static/js/3.cf499ae3.chunk.js": "/bmi-react-app/static/js/3.cf499ae3.chunk.js",
+    "static/js/3.cf499ae3.chunk.js.map": "/bmi-react-app/static/js/3.cf499ae3.chunk.js.map",
+    "index.html": "/bmi-react-app/index.html",
+    "static/css/main.e610c942.chunk.css.map": "/bmi-react-app/static/css/main.e610c942.chunk.css.map",
+    "static/js/2.906f0d43.chunk.js.LICENSE.txt": "/bmi-react-app/static/js/2.906f0d43.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/bmi-react-app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.50583cc5.js",
+    "static/js/2.906f0d43.chunk.js",
+    "static/css/main.e610c942.chunk.css",
+    "static/js/main.67a06347.chunk.js"
+  ]
+}
