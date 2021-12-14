@@ -3,10 +3,11 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import Bmi from './Bmi';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <Bmi/>
   </React.StrictMode>,
   document.getElementById('root')
 );
