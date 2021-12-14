@@ -10,12 +10,15 @@ export default function Bmi() {
 
   function calculateBMI() {
     let bmi = Number(weight / (height / 100) ** 2).toFixed(2);
+    
     setBmiResult(bmi);
 
     let bmiStatus = getStatus(bmi);
+    
     setStatus(bmiStatus);
-
+    
     setHeight("");
+    
     setWeight("");
   }
 
